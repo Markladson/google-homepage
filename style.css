@@ -10,3 +10,7 @@
 root {
     display: block;
 }
+
+footer {
+    align-content: bottom;
+}
